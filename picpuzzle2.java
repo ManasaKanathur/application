@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.java;
 
 import java.awt.event.*;
 import java.awt.*;
