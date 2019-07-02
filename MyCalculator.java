@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.java;
 
 /*********************************************
 Save this file as MyCalculator.java
